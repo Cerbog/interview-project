@@ -1,0 +1,7 @@
+#eleviNoteModal{    /* Bootstrap modal error on second modal fix*/
+   overflow-y: scroll;
+}
+
+a.btn-google{
+   text-align: center;
+}
